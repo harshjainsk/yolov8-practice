@@ -1,0 +1,5 @@
+train: E:\yolov8-practice\train
+val: E:\yolov8-practice\test
+
+nc: 1
+names: ['butterfly']
